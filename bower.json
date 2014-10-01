@@ -1,0 +1,7 @@
+{
+  "name": "flickr-photos-search#gh-pages",
+  "private": true,
+  "dependencies": {
+    "flickr-photos-search": "polymerlabs/flickr-photos-search#master"
+  }
+}
